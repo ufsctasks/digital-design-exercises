@@ -5,7 +5,7 @@ This repository contains two implementations of a **10-bit binary bit checker**,
 - ✅ **RISC-V Assembly** (tested using [Venus RISC-V Simulator](https://venus.cs61c.org/))
 - ✅ **SystemVerilog** (simulated on [EDA Playground](https://www.edaplayground.com/))
 
-Both implementations were created for educational purposes as part of a Computer Architecture and Hardware Design course, and are conceptually linked to the final TCC proposal: a **DMA controller targeting an RV32I processor**.
+Both implementations were created for educational purposes.
 
 ---
 
