@@ -18,4 +18,5 @@ Both implementations were created for educational purposes as part of a Computer
 ├── systemverilog/
 │   ├── bit_checker.sv          # SystemVerilog module (sequential logic)
 │   └── bit_checker_tb.sv       # Testbench for simulation
+│   └── simulation.txt          # Testbench for simulation
 ├── README.md
