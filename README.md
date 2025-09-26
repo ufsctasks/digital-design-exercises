@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bit Checker Projects – RISC-V Assembly & SystemVerilog
 
 This repository contains two implementations of a **10-bit binary bit checker**, written in:
@@ -20,3 +21,6 @@ Both implementations were created for educational purposes.
 │   └── bit_checker_tb.sv       # Testbench for simulation
 │   └── simulation.txt          # Testbench for simulation
 ├── README.md
+=======
+# mips_s_cp0
+>>>>>>> 6a935c6 (first commit)
